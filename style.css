@@ -1,0 +1,10 @@
+h1 {
+  color: gold;
+  background-color: midnightblue;
+}
+
+h1.text-gold {
+  display: inline;
+  font-size: 7em;
+  margin: auto;
+}
